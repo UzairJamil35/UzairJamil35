@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Testing & Automation Testing.
 - 💞️ I’m looking to collaborate with  senior Tester From which I can learn.
 - 📫 How to reach me 0315-4397717 
-- 😄 Pronouns: "He","His"
+- 😄 Pronouns: "He","Him"
 - ⚡ Fun fact: Love to Travel
 
 <!---
